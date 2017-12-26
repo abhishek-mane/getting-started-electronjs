@@ -1,0 +1,42 @@
+{
+    "sync.gist": "cab9f4a6ea93f8ce81ae9b916ea48d76",
+    "sync.lastUpload": "2017-12-25T07:52:01.979Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "window.zoomLevel": 0,
+    "extensions.ignoreRecommendations": false,
+    "editor.fontFamily": "'Operator Mono Light', Consolas",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Operator Mono Dark Theme",
+    "terminal.integrated.fontFamily": "Consolas",
+    "editor.renderWhitespace": "all",
+    "workbench.colorCustomizations": {
+        "badge.background": "#26A65B",
+        // "editor.background": "#122"
+    },
+    "editor.renderIndentGuides": false,
+    "material-icon-theme.folders.color": "#FABE58",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.panel.location": "bottom",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "editor.fontSize": 14,
+    "git.autofetch": true
+}

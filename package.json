@@ -1,0 +1,25 @@
+{
+  "name": "getting-started-electronjs",
+  "version": "1.0.0",
+  "description": "Learning electronjs",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-mane/getting-started-electronjs.git"
+  },
+  "author": "Abhishek Mane <abhishekmane@outlook.in> (https://abhishek-mane.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhishek-mane/getting-started-electronjs/issues"
+  },
+  "homepage": "https://github.com/abhishek-mane/getting-started-electronjs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^1.7.10",
+    "eslint-config-google": "^0.9.1"
+  }
+}
